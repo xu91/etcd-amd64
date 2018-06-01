@@ -1,2 +1,2 @@
 # etcd-amd64
-gcr.io/google_containers/etcd-amd64:3.0.17
+k8s.gcr.io/etcd-amd64:3.1.12
